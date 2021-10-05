@@ -1,0 +1,11 @@
+{
+  "name": "mqtt-subscription-vault",
+  "version": "1.0.0",
+  "description": "Class to manage dynamic subscriptions to mqtt topics in different parts of an application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Dyer & Altair Engineering",
+  "license": "MIT"
+}
